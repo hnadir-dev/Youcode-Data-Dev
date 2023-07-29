@@ -63,6 +63,10 @@ SELECT * FROM requirments
 SELECT * FROM facilities
 
 
+ALTER TABLE facilities
+ADD FOREIGN KEY (jobID) REFERENCES jobs(JobID)
+
+
 SELECT companies.companyName, jobs.jobName,jobs.jobLocation,countries.countryName,facilities.facilityName FROM companies,jobs,countries,facilities
 where jobs.companyID = companies.companyID 
 and jobs.countryID = countries.countryID
@@ -71,3 +75,7 @@ and facilities.jobID = jobs.jobID
 
 select facilities.facilityName,COUNT(jobID) from facilities
 group by facilities.facilityName
+
+SELECT * FROM jobs
+where jobs.jobID  NOT IN (SELECT jobID from requirments)
+
