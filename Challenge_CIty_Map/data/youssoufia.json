@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OCY"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.535287255587662,
+          32.23776969283607
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Youcode"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.521753524447945,
+          32.24763669446159
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "cafe"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.534590862329196,
+          32.24722278148822
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "hopital cheikh ZAID"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.521920677256531,
+          32.24864658138999
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "la gare des voyageurs"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.540009132881096,
+          32.239437494319276
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hotel Atlas"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.536129605308304,
+          32.242233862139784
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Attijariwafa bank"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.533854145768288,
+          32.246190520166536
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "مسجد العتيق"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.536531512363297,
+          32.24278344535385
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BANQUE POPULAIRE"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.537708923537252,
+          32.24123515696351
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OFPPT YOUSSOUFIA"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.533018562846507,
+          32.24170730167809
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marché"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.537243951910256,
+          32.23931145808096
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    }
+  ]
+}
